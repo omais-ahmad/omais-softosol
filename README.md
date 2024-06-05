@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omais-softosol&label=Profile%20views&color=0e75b6&style=flat" alt="omais-ahmad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omais-ahmad" alt="omais-ahmad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omais-softosol" alt="omais-ahmad" /></a> </p>
 
 - 🌱 I’m currently learning **Node.JS**
 
